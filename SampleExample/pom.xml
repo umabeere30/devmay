@@ -15,6 +15,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
     </dependencies>
 <!-- My repos changes by sanjay -->
 <!--uma changed 18 may in the system-->
+<!--uma changed 18 may updating in the UI -->
 <!-- sanjay is changing here for demo testing of versions-->
 	<repositories>
 	<repository>
